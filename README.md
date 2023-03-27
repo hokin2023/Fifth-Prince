@@ -49,7 +49,7 @@ THEN the saved events persist
 
 
 
-* The URL of the deployed application: 
+* The URL of the deployed application: https://hokin2023.github.io/Fifth-Prince/
 
 * The URL of the GitHub repository, with a unique name and a README describing the project:https://github.com/hokin2023/Fifth-Prince.git
 
